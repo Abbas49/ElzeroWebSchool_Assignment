@@ -3,7 +3,7 @@
     font-family: "Work sans";
 }
 :root{
-    --blue: black;
+    --blue: rgb(19,189,173);
     --black: #2c4755;
     --background: #fafafa;
 }
