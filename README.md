@@ -1,2 +1,5 @@
-<h1>First project</h1>
-<p>This is my first project<p>
+<h1>About</h1>
+<p>You can see the website on: </p>
+<p>https://biso7355.github.io/Project1/</p>
+<p>or</p>
+<p>https://abbas.great-site.net/</p>
