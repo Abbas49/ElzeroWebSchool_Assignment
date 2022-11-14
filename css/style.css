@@ -7,11 +7,14 @@
     --black: #2c4755;
     --background: #fafafa;
 }
+html{
+    scroll-behavior: smooth;
+}
 body{
     /* background-color: #eee; */
     background-size: 50px;
     background-position: 0 -250px;
-    min-height: 100%
+    min-height: 100%;
 }
 .con{
     width: 700px; 
